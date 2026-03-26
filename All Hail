@@ -1,15 +1,14 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "All Hail the Sect Leader",
+  "description": "Ma quête est de développer une secte qui serait un foyer chaleureux pour ses membres. Dedans, non seulement le chef de secte est amusant (ouais c'est moi) mais les disciples sont excentriques, aux personnalités très variées. Ils ont comme particularités d'être en constante évolution et d'être anormalement forts. Tous se révèlent être des gros bonnets, et moi, leur patriarche, je deviendrai invincible ! Approchez, les enfants, rejoignez ma secte et ensemble nous réaliserons vos rêves !",
+  "artist": "烛道文化",
+  "author": "烛道文化",
+  "cover": "https://scanreader.net/wp-content/uploads/2026/03/Couverture-768x1024.png",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "La secte des os d'acier",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "All Hail that Team": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
