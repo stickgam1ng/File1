@@ -8,18 +8,18 @@
     "1": {
       "title": "La secte des os d'acier",
       "volume": "1",
+      "last_updated": "1616368746",
       "groups": {
         "All Hail that Team": "/proxy/api/imgur/chapter/jBfvAXt"
-      },
-      "last_updated": "1616368746"
+      }
     },
     "62": {
       "title": "Le 62",
       "volume": "1",
+      "last_updated": "1616368746",
       "groups": {
         "All Hail that Team": "/proxy/api/imgur/chapter/UU0aGpF"
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
